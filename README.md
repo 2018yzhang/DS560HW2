@@ -19,7 +19,7 @@ As for the notebook **Run3Scripts.ipynb**, it executes GenerateNums.py, ExecuteF
     pip install virtualenv
     ```
 3. Before you create a blank virtual environment for the project, please move into the project folder using ```cd``` command.
-4. When you are in the project folder, you can create your virtual environment and name it.
+4. When you are in the project folder, you can create your virtual environment and name it (such as dsci560H4).
    
    For macOS and Linux:
    ```
