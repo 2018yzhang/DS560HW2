@@ -11,4 +11,4 @@ For Notebook ExecuteScripts.ipynb, it executes script1, script2, and script3 in 
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2018yzhang/RandomNumsAndExecuteFunction/master?filepath=Run3Scripts)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2018yzhang/RandomNumsAndExecuteFunction/master?filepath=Run3Scripts.ipynb)
