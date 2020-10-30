@@ -85,7 +85,9 @@ You can click below image and execute Run3Scripts.ipynb through Binder.
 Install packages manually using below command:
 
 ```Matplotlib``` using ```pip install matplotlib```
+
 ```panda``` using ```pip install panda```
+
 ```seaborn``` using ```pip install seaborn```
 
 The dependency list showed below by using ```pip freeze```. You can also check it in the ```requirement.txt``` file.
