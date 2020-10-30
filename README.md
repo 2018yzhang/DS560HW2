@@ -12,7 +12,7 @@ As for the notebook **Run3Scripts.ipynb**, it executes GenerateNums.py, ExecuteF
 ## Installation  
 1. To install and execute this project, you need clone this repository to your computer. 
     ```
-    git clone https://github.com/2018yzhang/RandomNumsAndExecuteFunction.git 
+    git clone https://github.com/2018yzhang/DS560HW2.git 
     ```
 2. If you don't have the package, virtualenv, you need to install your virtual environment using ```pip install``` firstly. 
     ```
