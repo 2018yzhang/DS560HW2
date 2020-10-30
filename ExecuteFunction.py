@@ -1,5 +1,4 @@
 import csv
-outputFile = open("b.txt", "w")
 
 result = []
 with open('RandomNums.csv','r') as inputFile:
@@ -15,4 +14,4 @@ with open('GeneratedNumsByFunction.csv', 'w') as outFile:
         outFile.write(result[i])
 
 inputFile.close()
-outputFile.close()
+outFile.close()
