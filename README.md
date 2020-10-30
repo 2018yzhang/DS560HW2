@@ -79,6 +79,7 @@ Now, you are able to execute scripts under the virtual environment you created u
    
 ## Notebook Execution in Binder
 You can click below image and execute Run3Scripts.ipynb through Binder.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2018yzhang/RandomNumsAndExecuteFunction/master?filepath=Run3Scripts.ipynb)
 
 ## Package Comparison
