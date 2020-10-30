@@ -20,6 +20,7 @@ As for the notebook **Run3Scripts.ipynb**, it executes GenerateNums.py, ExecuteF
     ```
 3. Before you create a blank virtual environment for the project, please move into the project folder using ```cd``` command.
 4. When you are in the project folder, you can create your virtual environment and name it.
+   
    For macOS and Linux:
    ```
    python3 -m venv [YourEnvName]
@@ -29,6 +30,7 @@ As for the notebook **Run3Scripts.ipynb**, it executes GenerateNums.py, ExecuteF
    py -m venv [YourEnvName]
    ```
 5. To activate your virtual environment, you need to use following command:
+  
    For macOS and Linux:
    ```
    source [YourEnvName]/bin/activate 
