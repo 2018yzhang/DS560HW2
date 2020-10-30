@@ -82,9 +82,11 @@ You can click below image and execute Run3Scripts.ipynb through Binder.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2018yzhang/RandomNumsAndExecuteFunction/master?filepath=Run3Scripts.ipynb)
 
 ## Package Comparison
-Install ```Matplotlib``` manually using below command:
+Install packages manually using below command:
 
-```pip install matplotlib```
+```Matplotlib``` using ```pip install matplotlib```
+```panda``` using ```pip install panda```
+```seaborn``` using ```pip install seaborn```
 
 The dependency list showed below by using ```pip freeze```. You can also check it in the ```requirement.txt``` file.
 
