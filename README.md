@@ -38,7 +38,9 @@ As for the notebook **Run3Scripts.ipynb**, it executes GenerateNums.py, ExecuteF
    .\[YourEnvName]\Scripts\activate
    ```
    If you run it successfully, it should look like this:
+   
    ![Image of activate](/samplePhoto/activate.png) 
+   
 6. Install all dependencies in the requirement.txt using:
    ```
    pip install -r requirements.txt
@@ -50,7 +52,9 @@ Now, you are able to execute scripts under the virtual environment you created u
    python GenerateNums.py
    ```
    After execution, your terminal should like:
+   
    ![Image of gen](/samplePhoto/afterGenScript.png) 
+   
    There will be a CSV file generated in the project folder called, RandomNums.CSV.
    
 2. Execute ExecuteFunction.py to invoke the function y=3X+6 using numbers from RandomNums.CSV as the input.
@@ -58,7 +62,9 @@ Now, you are able to execute scripts under the virtual environment you created u
    python ExecuteFunction.py
    ```
    After execution, your terminal should like:
+   
    ![Image of fun](/samplePhoto/afterExeScript.png) 
+   
    There will be a CSV file generated in the project folder called, GeneratedNumsByFunction.CSV.
    
 3. Execute Graph.py to draw a relation graph between the numbers from RandomNums.CSV (X) and GeneratedNumsByFunction.CSV (Y).There
@@ -66,7 +72,9 @@ Now, you are able to execute scripts under the virtual environment you created u
    python Graph.py
    ```
    After execution, your terminal should like:
+   
    ![Image of graph](/samplePhoto/afterGraphScript.png) 
+   
    There will be a png image file generated in the project folder called, RelationGraph.png. 
    
 ## Notebook Execution in Binder
@@ -74,5 +82,10 @@ You can click below image and execute Run3Scripts.ipynb through Binder.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2018yzhang/RandomNumsAndExecuteFunction/master?filepath=Run3Scripts.ipynb)
 
 ## Package Comparison
-Install ```Matplotlib``` using ```pip install matplotlib```
-The dependency list extracted by using ```pip freeze```
+Install ```Matplotlib``` manually using below command:
+
+```pip install matplotlib```
+
+The dependency list showed below by using ```pip freeze```. You can also check it in the ```requirement.txt``` file.
+
+![Image of graph](/samplePhoto/ExtractedList.png) 
